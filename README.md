@@ -4,13 +4,13 @@ I am a frontend developer, looking to break in the industry and start solving th
 <!--
 **agorodinskaya/agorodinskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Here is a lottle bit about me :
 
-- 🔭 I’m currently working on small react projects 💻☕️🍫
-- 🌱 I’m currently learning react and node 💥 🔭
-- 👯 I’m looking to collaborate on react projects 🎷
-- 💬 Ask me about ...
-- 📫 How to reach me: https://agorodinskaya.github.io/
-- 😄 Pronouns: me 🎷
-- ⚡ Fun fact: I am always hungry 🥞🥙... I love snow ❄️.
+* 🔭 I’m currently working on small react projects 💻☕️🍫
+* 🌱 I’m currently learning react and node 💥 🔭
+* 👯 I’m looking to collaborate on react projects 🎷
+* 💬 Ask me about ...
+* 📫 How to reach me: https://agorodinskaya.github.io/
+* 😄 Pronouns: me 🎷
+* ⚡ Fun fact: I am always hungry 🥞🥙... I love snow ❄️.
 -->
