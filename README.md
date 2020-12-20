@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 I am a frontend developer, looking to break in the industry and start solving the actual user's problem. 
 
-# Here is a lottle bit about me :
+### Here is a little bit about me :
 
 * 🔭 I’m currently working on small react projects 💻☕️🍫
 * 🌱 I’m currently improving my skills with react and learning node 💥 🔭
