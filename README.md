@@ -7,4 +7,4 @@ I am a frontend developer, looking for opportunities to work on interesting proj
 * 🌱 Also learning node 💥 🔭 and python 🐍 
 * 👋 I’m looking to collaborate on react projects 🤓
 * 😄 Pronouns: me work together with you 🥳
-* ⚡ Fun fact: I am always hungry 🥞🥙... I love snow ❄️.
+* ⚡ Fun fact: I love diving 🤿 and snow ❄️.
