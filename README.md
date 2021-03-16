@@ -3,8 +3,8 @@ I am a frontend developer, looking for opportunities to work on interesting proj
 
 ### Here is a little bit about me :
 
-* 🔭 I’m currently working on repo [smallreactproj](https://github.com/agorodinskaya/smallreactproj) and [react-burger-builder](https://github.com/agorodinskaya/react-burger-builder) to become perfect with react 🤘💻☕️🍫
-* 🌱 Also learning node 💥 🔭 and python 🐍 
+* 🔭 I’m currently working on repos [ecommerce](https://github.com/agorodinskaya/ecom) and [react-burger-builder](https://github.com/agorodinskaya/react-burger-builder) learning redux and improving on react 🤘💻☕️🍫
+* 🌱 Also learning, typescript 📘, node 💥 🔭 and python 🐍 
 * 👋 I’m looking to collaborate on react projects 🤓
 * 😄 Pronouns: me work together with you 🥳
 * ⚡ Fun fact: I love diving 🤿 and snow ❄️.
