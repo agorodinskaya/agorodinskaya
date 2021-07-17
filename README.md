@@ -1,5 +1,5 @@
 # Hi there 👋
-I am a frontend developer, looking for opportunities to work on interesting projects that would solve some real problems out there 🛠. 
+I am a frontend developer, looking to work on interesting projects that would solve some real problems out there 🛠. 
 
 ### Here is a little bit about me :
 
