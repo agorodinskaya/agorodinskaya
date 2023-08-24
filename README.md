@@ -3,8 +3,8 @@ I am a frontend developer, looking to work on interesting projects that would so
 
 ### Here is a little bit about me :
 
-* 🔭 I’m currently working on repos [lovely-bookkeeper](https://github.com/agorodinskaya/lovely-bookkeeper) and [quizer](https://github.com/agorodinskaya/quizer) learning redux and doing more react projects with Codecademy and udemy 🤘💻☕️🍫
-* 🌱 Also learning, typescript 📘, node 💥 🔭 and python 🐍 
+* 🔭 I’m currently working on repos [lovely-bookkeeper](https://github.com/agorodinskaya/lovely-bookkeeper)
+* 🌱 Also learning docker, node 💥 🔭 and python 🐍 
 * 👋 I’m looking to collaborate on react projects 🤓
 * 😄 Pronouns: me work together with you 🥳
 * ⚡ Fun fact: I love diving 🤿 and snow ❄️.
